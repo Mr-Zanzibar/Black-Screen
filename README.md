@@ -7,4 +7,4 @@ A python script for Windows that turns off the monitor
 
 - click on install.bat
 
-- click oon start.bat
+- click on start.bat
